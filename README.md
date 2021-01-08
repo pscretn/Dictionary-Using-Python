@@ -2,7 +2,7 @@
 Dictionary is a program written in python which can be used for searching word meaning . I had tried to overcome all the errors in program ,this dictionary
 can get close matches for wrong word 
 <br><br><br>
-Inorder to make dictionary work we need to import json and import get_close_matches from difflib
+ to get started with dictionary ,  we need to import json and import get_close_matches from difflib as shown below
 
 ```python
 import json 
