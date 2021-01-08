@@ -1,9 +1,9 @@
 # Dictionary-Using-Python
 Dictionary is a program written in python which can be used for searching word meaning . I had tried to overcome all the errors in program ,this dictionary
 can get close matches for wrong word 
-
-Inorder to make dictionary work we need to import json and import get_close_matches from difflib
 <br><br><br>
+Inorder to make dictionary work we need to import json and import get_close_matches from difflib
+
 ```python
 import json 
 from difflib  import get_close_matches
