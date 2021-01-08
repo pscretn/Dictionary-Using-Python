@@ -2,7 +2,7 @@
 Dictionary is a program written in python which can be used for searching word meaning . I had tried to overcome all the errors in program ,this dictionary
 can get close matches for wrong word 
 <br><br><br>
- to get started with dictionary ,  we need to import json and import get_close_matches from difflib as shown below
+ to get started with dictionary ,  we need to import json and also import get_close_matches from difflib as shown below
 
 ```python
 import json 
@@ -53,3 +53,7 @@ else:
     if out != None: # inorder to ignore printing "None" we have used this conditional
         print (out)
 ```
+# Output
+The Shown below images is the screenshot of program runned in linux terminal 
+<br><br>
+![](images/img1.png)
